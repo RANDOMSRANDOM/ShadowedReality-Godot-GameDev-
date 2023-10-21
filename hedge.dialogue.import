@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_10"
+type="Resource"
+uid="uid://dtgqvhu4uk6l"
+path="res://.godot/imported/hedge.dialogue-389f4cc78c0959485396debcd833cfe1.tres"
+
+[deps]
+
+source_file="res://hedge.dialogue"
+dest_files=["res://.godot/imported/hedge.dialogue-389f4cc78c0959485396debcd833cfe1.tres"]
+
+[params]
+
+defaults=true

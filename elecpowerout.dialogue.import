@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_10"
+type="Resource"
+uid="uid://bt5hhbsgjdaja"
+path="res://.godot/imported/elecpowerout.dialogue-96743c211ae9e8bef9b9105593cf3c6e.tres"
+
+[deps]
+
+source_file="res://elecpowerout.dialogue"
+dest_files=["res://.godot/imported/elecpowerout.dialogue-96743c211ae9e8bef9b9105593cf3c6e.tres"]
+
+[params]
+
+defaults=true

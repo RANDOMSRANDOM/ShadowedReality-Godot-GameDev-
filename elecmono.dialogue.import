@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_10"
+type="Resource"
+uid="uid://b5p8w3o2u46vs"
+path="res://.godot/imported/elecmono.dialogue-ee0904224c4c5e9f3806c573bc50ade5.tres"
+
+[deps]
+
+source_file="res://elecmono.dialogue"
+dest_files=["res://.godot/imported/elecmono.dialogue-ee0904224c4c5e9f3806c573bc50ade5.tres"]
+
+[params]
+
+defaults=true
