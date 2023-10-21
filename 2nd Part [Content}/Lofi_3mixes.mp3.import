@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b6ul3t0yic1n3"
+path="res://.godot/imported/Lofi_3mixes.mp3-b617e8b0ea9f17dd024ea1e0209689a1.mp3str"
+
+[deps]
+
+source_file="res://2nd Part [Content}/Lofi_3mixes.mp3"
+dest_files=["res://.godot/imported/Lofi_3mixes.mp3-b617e8b0ea9f17dd024ea1e0209689a1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

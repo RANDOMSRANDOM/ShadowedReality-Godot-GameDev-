@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_10"
+type="Resource"
+uid="uid://cmcjb3kuepbko"
+path="res://.godot/imported/schoolintro.dialogue-18de951d5670b306308812115564b802.tres"
+
+[deps]
+
+source_file="res://2nd Part [Content}/schoolintro.dialogue"
+dest_files=["res://.godot/imported/schoolintro.dialogue-18de951d5670b306308812115564b802.tres"]
+
+[params]
+
+defaults=true
