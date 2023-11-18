@@ -1,19 +1,18 @@
-[gd_scene load_steps=27 format=3 uid="uid://dw0fd8078qp0p"]
+[gd_scene load_steps=26 format=3 uid="uid://cdvt2eyam2qyf"]
 
-[ext_resource type="Texture2D" uid="uid://camxxqpigab4y" path="res://blackbg.jpg" id="1_62max"]
-[ext_resource type="Texture2D" uid="uid://dowrij5n7lr7e" path="res://housebg1.1.png" id="2_107cy"]
-[ext_resource type="Texture2D" uid="uid://bvg34in5cd7oj" path="res://2nd Part [Content}/schoolbg.png" id="3_4uk05"]
-[ext_resource type="Texture2D" uid="uid://boytkbnatbd54" path="res://2nd Part [Content}/tileset1.4.png" id="4_10vcm"]
-[ext_resource type="AudioStream" uid="uid://c3n36yiblk0hn" path="res://OSTS/Shadowed reality/Place holder 2.mp3" id="5_ic23t"]
-[ext_resource type="PackedScene" uid="uid://c5al640jaecmc" path="res://smallplayer.tscn" id="5_r6e5f"]
-[ext_resource type="Script" path="res://concussioncutscene.gd" id="6_yaurm"]
-[ext_resource type="Script" path="res://concussionmono.gd" id="7_uctmp"]
-[ext_resource type="Script" path="res://Area2D2.gd" id="8_iupcj"]
-[ext_resource type="Script" path="res://Area2D3.gd" id="9_1ei87"]
-[ext_resource type="Texture2D" uid="uid://cld4skriu1oov" path="res://pixilart-sprite.png" id="10_wfq4h"]
+[ext_resource type="Texture2D" uid="uid://camxxqpigab4y" path="res://blackbg.jpg" id="1_wuj2f"]
+[ext_resource type="Texture2D" uid="uid://dowrij5n7lr7e" path="res://housebg1.1.png" id="2_d4dhs"]
+[ext_resource type="Texture2D" uid="uid://bvg34in5cd7oj" path="res://2nd Part [Content}/schoolbg.png" id="3_ytfci"]
+[ext_resource type="Texture2D" uid="uid://boytkbnatbd54" path="res://2nd Part [Content}/tileset1.4.png" id="4_sdotj"]
+[ext_resource type="AudioStream" uid="uid://c3n36yiblk0hn" path="res://OSTS/Shadowed reality/Place holder 2.mp3" id="5_vsq08"]
+[ext_resource type="PackedScene" uid="uid://c5al640jaecmc" path="res://smallplayer.tscn" id="6_p2yb4"]
+[ext_resource type="Script" path="res://concussioncutscene.gd" id="7_2b51u"]
+[ext_resource type="Script" path="res://Area2D2.gd" id="9_855iy"]
+[ext_resource type="Script" path="res://Area2D3.gd" id="10_55qx7"]
+[ext_resource type="Texture2D" uid="uid://cld4skriu1oov" path="res://pixilart-sprite.png" id="11_0kaxx"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_xhr84"]
-texture = ExtResource("2_107cy")
+texture = ExtResource("2_d4dhs")
 11:0/0 = 0
 11:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 11:0/0/physics_layer_0/angular_velocity = 0.0
@@ -2921,7 +2920,7 @@ texture = ExtResource("2_107cy")
 19:41/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_nvc7d"]
-texture = ExtResource("3_4uk05")
+texture = ExtResource("3_ytfci")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -3282,7 +3281,7 @@ texture = ExtResource("3_4uk05")
 27:5/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_h5s6d"]
-texture = ExtResource("4_10vcm")
+texture = ExtResource("4_sdotj")
 0:0/0 = 0
 0:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:0/0/physics_layer_0/angular_velocity = 0.0
@@ -14557,7 +14556,7 @@ sources/1 = SubResource("TileSetAtlasSource_nvc7d")
 sources/3 = SubResource("TileSetAtlasSource_h5s6d")
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ki6st"]
-texture = ExtResource("4_10vcm")
+texture = ExtResource("4_sdotj")
 2:1/0 = 0
 2:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 2:1/0/physics_layer_0/angular_velocity = 0.0
@@ -25176,7 +25175,7 @@ physics_layer_0/collision_layer = 1
 sources/0 = SubResource("TileSetAtlasSource_ki6st")
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_4ngqw"]
-texture = ExtResource("4_10vcm")
+texture = ExtResource("4_sdotj")
 2:1/0 = 0
 3:1/0 = 0
 4:1/0 = 0
@@ -28680,7 +28679,7 @@ texture = ExtResource("4_10vcm")
 sources/2 = SubResource("TileSetAtlasSource_4ngqw")
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_x5cqw"]
-texture = ExtResource("4_10vcm")
+texture = ExtResource("4_sdotj")
 2:1/0 = 0
 3:1/0 = 0
 4:1/0 = 0
@@ -32183,14 +32182,14 @@ texture = ExtResource("4_10vcm")
 [sub_resource type="TileSet" id="TileSet_j2ku4"]
 sources/0 = SubResource("TileSetAtlasSource_x5cqw")
 
-[sub_resource type="Gradient" id="Gradient_48agk"]
-offsets = PackedFloat32Array(0, 0.4, 0.645161, 0.812903, 1)
-colors = PackedColorArray(0, 0, 0, 0, 0.388235, 0, 0, 1, 0.164706, 0.0235294, 0.101961, 1, 0.0784314, 0.0235294, 0.101961, 1, 0, 0, 0, 1)
+[sub_resource type="Gradient" id="Gradient_2deig"]
+offsets = PackedFloat32Array(0, 0.741935)
+colors = PackedColorArray(0.419608, 0, 0, 1, 0, 0, 0, 1)
 
-[sub_resource type="GradientTexture2D" id="GradientTexture2D_4o723"]
-gradient = SubResource("Gradient_48agk")
-fill = 2
-fill_from = Vector2(0.495413, 0.472477)
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_1j37d"]
+gradient = SubResource("Gradient_2deig")
+fill = 1
+fill_from = Vector2(0.495413, 0.490826)
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_i5pbv"]
 radius = 23.3452
@@ -32204,9 +32203,9 @@ radius = 22.0907
 [node name="staffroom" type="Node2D"]
 
 [node name="Blackbg" type="Sprite2D" parent="."]
-position = Vector2(-665, -173)
+position = Vector2(-449, -87)
 scale = Vector2(14.4704, 15.1667)
-texture = ExtResource("1_62max")
+texture = ExtResource("1_wuj2f")
 
 [node name="TileMap2" type="TileMap" parent="."]
 tile_set = SubResource("TileSet_4o3qk")
@@ -32228,46 +32227,38 @@ tile_set = SubResource("TileSet_j2ku4")
 format = 2
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
-stream = ExtResource("5_ic23t")
-volume_db = -10.315
-pitch_scale = 1.25
+stream = ExtResource("5_vsq08")
+volume_db = -20.0
 autoplay = true
 
 [node name="CanvasModulate" type="CanvasModulate" parent="."]
 color = Color(0.513726, 0.513726, 0.513726, 1)
 
-[node name="CharacterBody2D" parent="." instance=ExtResource("5_r6e5f")]
-position = Vector2(297, 187)
+[node name="CharacterBody2D" parent="." instance=ExtResource("6_p2yb4")]
+position = Vector2(468, 313)
 
-[node name="PointLight2D" type="PointLight2D" parent="CharacterBody2D"]
-position = Vector2(-8, 8.00003)
-scale = Vector2(13.6719, 9.15625)
-energy = 1.15
-texture = SubResource("GradientTexture2D_4o723")
+[node name="PointLight2D2" type="PointLight2D" parent="CharacterBody2D"]
+position = Vector2(-6, 5)
+scale = Vector2(3.375, 3.25)
+energy = 1.7
+texture = SubResource("GradientTexture2D_1j37d")
 
 [node name="school" type="Area2D" parent="."]
-script = ExtResource("6_yaurm")
+script = ExtResource("7_2b51u")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="school"]
 position = Vector2(469, 364)
 shape = SubResource("CircleShape2D_i5pbv")
 
-[node name="Area2D" type="Area2D" parent="."]
-script = ExtResource("7_uctmp")
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
-position = Vector2(289, 183)
-shape = SubResource("CircleShape2D_fnwt8")
-
 [node name="Area2D2" type="Area2D" parent="."]
-script = ExtResource("8_iupcj")
+script = ExtResource("9_855iy")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D2"]
 position = Vector2(234, 313)
 shape = SubResource("CircleShape2D_fnwt8")
 
 [node name="Area2D3" type="Area2D" parent="."]
-script = ExtResource("9_1ei87")
+script = ExtResource("10_55qx7")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D3"]
 position = Vector2(71, 107)
@@ -32275,12 +32266,11 @@ shape = SubResource("CircleShape2D_x15ej")
 
 [node name="Pixilart-sprite" type="Sprite2D" parent="Area2D3"]
 position = Vector2(73, 105)
-texture = ExtResource("10_wfq4h")
+texture = ExtResource("11_0kaxx")
 hframes = 5
 frame = 2
 
 [connection signal="body_entered" from="school" to="school" method="_on_body_entered"]
-[connection signal="body_entered" from="Area2D" to="Area2D" method="_on_body_entered"]
 [connection signal="body_entered" from="Area2D2" to="Area2D2" method="_on_body_entered"]
 [connection signal="body_exited" from="Area2D2" to="Area2D2" method="_on_body_exited"]
 [connection signal="body_entered" from="Area2D3" to="Area2D3" method="_on_body_entered"]

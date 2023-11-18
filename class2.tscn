@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://camxxqpigab4y" path="res://blackbg.jpg" id="1_r3k3b"]
 [ext_resource type="Texture2D" uid="uid://dowrij5n7lr7e" path="res://housebg1.1.png" id="2_p44sy"]
-[ext_resource type="Texture2D" uid="uid://c3hu434vmaod" path="res://2nd Part [Content}/schoolbg.png" id="3_5v17p"]
+[ext_resource type="Texture2D" uid="uid://bvg34in5cd7oj" path="res://2nd Part [Content}/schoolbg.png" id="3_5v17p"]
 [ext_resource type="Texture2D" uid="uid://boytkbnatbd54" path="res://2nd Part [Content}/tileset1.4.png" id="4_vytua"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_xhr84"]

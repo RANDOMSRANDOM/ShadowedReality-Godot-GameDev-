@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_10"
+type="Resource"
+uid="uid://n861ue64ex8n"
+path="res://.godot/imported/concussion.dialogue-842f1e2ed395408afb4578c3af014e52.tres"
+
+[deps]
+
+source_file="res://concussion.dialogue"
+dest_files=["res://.godot/imported/concussion.dialogue-842f1e2ed395408afb4578c3af014e52.tres"]
+
+[params]
+
+defaults=true
