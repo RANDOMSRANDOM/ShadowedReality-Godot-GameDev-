@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_10"
+type="Resource"
+uid="uid://b7j5hgddon5g2"
+path="res://.godot/imported/memshard2.dialogue-04973f2ce7763e625813456518fcf9ab.tres"
+
+[deps]
+
+source_file="res://memshard2.dialogue"
+dest_files=["res://.godot/imported/memshard2.dialogue-04973f2ce7763e625813456518fcf9ab.tres"]
+
+[params]
+
+defaults=true

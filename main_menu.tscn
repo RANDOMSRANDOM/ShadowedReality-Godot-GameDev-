@@ -1,9 +1,10 @@
-[gd_scene load_steps=62 format=3 uid="uid://dxyc5o61mtrnb"]
+[gd_scene load_steps=63 format=3 uid="uid://dxyc5o61mtrnb"]
 
 [ext_resource type="Script" path="res://main_menu.gd" id="1_jtv1o"]
 [ext_resource type="Texture2D" uid="uid://d2lr6ujagt2dn" path="res://mainmenusprite.png" id="2_5uvnx"]
 [ext_resource type="FontFile" uid="uid://djhdm0sueg46w" path="res://mainfont.ttf" id="3_ahx21"]
-[ext_resource type="AudioStream" uid="uid://gmjm35bvh3c8" path="res://Shadowed reality.mp3" id="4_grqw1"]
+[ext_resource type="AudioStream" uid="uid://cstreelr1skuv" path="res://OSTS/Shadowed reality/Placeholder.mp3" id="4_yox14"]
+[ext_resource type="FontFile" uid="uid://bgudne8yfixc3" path="res://textfont.TTF" id="5_exmr8"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_54l8i"]
 atlas = ExtResource("2_5uvnx")
@@ -402,7 +403,7 @@ animations = [{
 }],
 "loop": false,
 "name": &"new_animation",
-"speed": 5.0
+"speed": 8.0
 }]
 
 [node name="Main_Menu" type="Node2D"]
@@ -414,7 +415,8 @@ position = Vector2(575, 335)
 scale = Vector2(3.75, 3.88889)
 sprite_frames = SubResource("SpriteFrames_t1win")
 animation = &"new_animation"
-frame_progress = 0.763171
+frame = 55
+frame_progress = 1.0
 
 [node name="Quit" type="Button" parent="AnimatedSprite2D"]
 offset_left = -154.0
@@ -468,10 +470,20 @@ text = "Start"
 position = Vector2(0, 2.24999)
 
 [node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
-stream = ExtResource("4_grqw1")
-volume_db = 3.671
-pitch_scale = 0.91
+stream = ExtResource("4_yox14")
+volume_db = -3.824
+pitch_scale = 0.83
 autoplay = true
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+offset_left = 526.0
+offset_top = 842.0
+offset_right = 1778.0
+offset_bottom = 896.0
+theme_override_fonts/normal_font = ExtResource("5_exmr8")
+theme_override_font_sizes/normal_font_size = 100
+text = "Use headphones for maximum experience!"
+scroll_active = false
 
 [connection signal="pressed" from="AnimatedSprite2D/Quit" to="." method="_on_quit_pressed"]
 [connection signal="pressed" from="AnimatedSprite2D/Credits" to="." method="_on_credits_pressed"]

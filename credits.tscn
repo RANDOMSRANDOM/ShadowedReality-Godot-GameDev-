@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://camxxqpigab4y" path="res://blackbg.jpg" id="1_bet4k"]
 [ext_resource type="Script" path="res://credits.gd" id="1_w3hgx"]
-[ext_resource type="AudioStream" uid="uid://dxrbdcn8mbuno" path="res://End_music_hype.mp3" id="3_vks2i"]
+[ext_resource type="AudioStream" uid="uid://cbic2rmgtr4my" path="res://OSTS/Shadowed reality/Shadow reality end credits.mp3" id="3_cn02f"]
 
 [node name="credits" type="Node2D"]
 script = ExtResource("1_w3hgx")
@@ -14,34 +14,51 @@ texture = ExtResource("1_bet4k")
 
 [node name="TextEdit" type="TextEdit" parent="."]
 offset_left = 8.0
-offset_top = 23.0
+offset_top = -8.0
 offset_right = 2680.0
-offset_bottom = 1831.0
+offset_bottom = 1800.0
 theme_override_font_sizes/font_size = 66
 text = "                           Shadowed Reality (ESC to skip)
 
               Game Director ------ Alfred Lee
-              Music Director ------ Brendon Foong
-                   Not Surerer ------ Arwin Tharman
+              Music Director ------ Brendon Foong aka Blap
+               Artist (kinda?!) ------ Arwin Tharman
 
 ___________________________________________________________________
                             Coding ------ Alfred Lee
-                      SFX Maker ------ Brendon Foong
+                      SFX Maker ------ Brendon Foong Aka Blap
             Imaginary Artist ------ Arwin Tharman
-     
+               Story Planning ------ Brendon Foong, Alfred Lee     
  
 ____________________________________________________________________
 
                         THANKS   FOR   PLAYING   !
 
 
+                                SPECIAL THANKS
+                                       NotVixios
+                                        Brayden
+ 
 
 
 
 
 
+s
+c
+r
+o
+l
+l
 
+f
+o
+r
 
+m
+o
+r
+e
 
 
 
@@ -131,6 +148,7 @@ ____________________________________________________________________
 
 
 
+Although a 3 person dev team, only 2 are commiting to the game
 
 
 
@@ -208,6 +226,7 @@ ____________________________________________________________________
 
 
 
+Shadowed Reality was going to be a dystopian topdown RPG, but idk why we chose a phychological lore heavy game later on.
 
 
 
@@ -293,6 +312,7 @@ ____________________________________________________________________
 
 
 
+I struggled with coding, so sorry for the lack of complex coding
 
 
 
@@ -397,6 +417,7 @@ ____________________________________________________________________
 
 
 
+music is wholly homemade by our dignified SFX maker, brendon (blap)
 
 
 
@@ -495,6 +516,7 @@ ____________________________________________________________________
 
 
 
+coder is the artist for 99.9%
 
 
 
@@ -556,6 +578,7 @@ ____________________________________________________________________
 
 
 
+artist is mascot, sorry for racism
 
 
 
@@ -713,808 +736,13 @@ ____________________________________________________________________
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Fun Fact: Alfred is a fan of Patchouli Knowledge from Touhou
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-LOL YOUR STILL HERE!1!!!11!!!1!1!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Fun fact: Brendon Foong is short irl
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Why are you still here
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-fun fact: arwin tharman is an indian scammer and pajsk mark stealer while procrastinating and sorry for doing nothing lololollol"
+"
 selecting_enabled = false
 scroll_v_scroll_speed = 50.0
 scroll_past_end_of_file = true
 metadata/_edit_use_anchors_ = true
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
-stream = ExtResource("3_vks2i")
+stream = ExtResource("3_cn02f")
+volume_db = -8.01
 autoplay = true

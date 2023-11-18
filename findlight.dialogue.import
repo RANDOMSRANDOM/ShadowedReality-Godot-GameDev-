@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_10"
+type="Resource"
+uid="uid://1s4tuy6mmr0l"
+path="res://.godot/imported/findlight.dialogue-acc78b5cacf466c690168373738b982f.tres"
+
+[deps]
+
+source_file="res://findlight.dialogue"
+dest_files=["res://.godot/imported/findlight.dialogue-acc78b5cacf466c690168373738b982f.tres"]
+
+[params]
+
+defaults=true

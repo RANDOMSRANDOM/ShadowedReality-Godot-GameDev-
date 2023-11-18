@@ -1,0 +1,30 @@
+[gd_scene load_steps=4 format=3 uid="uid://dye1kvxf01iu1"]
+
+[ext_resource type="Texture2D" uid="uid://camxxqpigab4y" path="res://blackbg.jpg" id="1_jjqvb"]
+[ext_resource type="Script" path="res://paper.gd" id="1_yxxgn"]
+[ext_resource type="Texture2D" uid="uid://bd2cdymc2h3hk" path="res://pixil-frame-0.png" id="2_jsad1"]
+
+[node name="paper" type="Node2D"]
+script = ExtResource("1_yxxgn")
+
+[node name="Blackbg" type="Sprite2D" parent="."]
+position = Vector2(712, 454)
+scale = Vector2(7.54605, 8.19697)
+texture = ExtResource("1_jjqvb")
+
+[node name="Pixil-frame-0" type="Sprite2D" parent="."]
+position = Vector2(597, 325)
+scale = Vector2(2.84722, 3.36167)
+texture = ExtResource("2_jsad1")
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+offset_left = 992.0
+offset_top = 609.0
+offset_right = 1233.0
+offset_bottom = 649.0
+text = "(Press Esc to Close)"
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(578, 322)
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
