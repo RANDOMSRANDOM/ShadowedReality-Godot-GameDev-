@@ -1,6 +1,12 @@
-# ShadowedReality
+# Shadowed Reality
 * An indie horror game glorified by it's banger albeit creepy music. Test out the game in Early Access!
 * This is a game heavily driven by it's story and music!
+* 
+# Media
+* Trailer for the game (feat. Brayden)
+https://www.youtube.com/watch?v=fcbOJwr927o&t=14s&ab_channel=BLAP
+* Gameplay (feat. NotVixios)
+  the video will launch by today 10pm GMT +8
 
 # Credits 
 * Alfred Lee as Game Director/Artist/Coder
