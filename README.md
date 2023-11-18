@@ -4,7 +4,8 @@
 * 
 # Media
 * Trailer for the game (feat. Brayden)
-https://www.youtube.com/watch?v=fcbOJwr927o&t=14s&ab_channel=BLAP
+- https://www.youtube.com/watch?v=GAj9OdGHR0E (1st ver.)
+- https://www.youtube.com/watch?v=fcbOJwr927o&t=14s&ab_channel=BLAP (2nd ver.)
 * Gameplay (feat. NotVixios)
   the video will launch by today 10pm GMT +8
 
