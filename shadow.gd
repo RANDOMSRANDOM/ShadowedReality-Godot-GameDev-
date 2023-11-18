@@ -1,8 +1,14 @@
-extends CharacterBody2D
+extends AnimatedSprite2D
+
+
+
+
+
+
+
 
 
 
 
 func _on_timer_timeout():
 	queue_free()
-

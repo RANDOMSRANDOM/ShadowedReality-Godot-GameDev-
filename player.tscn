@@ -4,7 +4,7 @@
 [ext_resource type="Texture2D" uid="uid://cix0s4vbg3l0m" path="res://engineersprite.png" id="2_413go"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_4j5f4"]
-size = Vector2(37, 60)
+size = Vector2(30, 52)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_pls8q"]
 atlas = ExtResource("2_413go")
@@ -130,8 +130,10 @@ light_mask = 2
 visibility_layer = 2
 position = Vector2(-2, 0)
 script = ExtResource("1_hed1y")
+speed = 100
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, 1)
 shape = SubResource("RectangleShape2D_4j5f4")
 
 [node name="Camera2D" type="Camera2D" parent="."]

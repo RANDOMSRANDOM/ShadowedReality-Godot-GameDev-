@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_10"
+type="Resource"
+uid="uid://ltr1m7uytlox"
+path="res://.godot/imported/runmono.dialogue-dc1baf783fd5bdaf18e97c3c38fe49b8.tres"
+
+[deps]
+
+source_file="res://runmono.dialogue"
+dest_files=["res://.godot/imported/runmono.dialogue-dc1baf783fd5bdaf18e97c3c38fe49b8.tres"]
+
+[params]
+
+defaults=true
