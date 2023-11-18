@@ -8,7 +8,5 @@
 * Arwin as [REDACTED] Error: Unable to show null
 
 # Fun Facts While Development
-* Shh, if we win in the competition, we might consider making a sequel and post it on itch.io,
-not to get your hopes high, but it's a sneak peek!
 * All music is 100% composed by our SFX Composer (blap)
 * This game broke like 4 to 5 times due to organisation of files, it's chaos and disasters.
