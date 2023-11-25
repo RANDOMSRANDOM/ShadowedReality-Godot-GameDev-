@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bxx7vasu4oe4y"
+path="res://.godot/imported/white light.mp3-4fc11b8b475e8941331a3e6e3e9ccc74.mp3str"
+
+[deps]
+
+source_file="res://OSTS/Shadowed reality/white light.mp3"
+dest_files=["res://.godot/imported/white light.mp3-4fc11b8b475e8941331a3e6e3e9ccc74.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

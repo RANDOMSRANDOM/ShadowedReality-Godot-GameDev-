@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://lteeu0iba64a"
+path="res://.godot/imported/Chase sence.mp3-75ffe36900aff189090ce0fdc9c68d48.mp3str"
+
+[deps]
+
+source_file="res://OSTS/Shadowed reality/Chase sence.mp3"
+dest_files=["res://.godot/imported/Chase sence.mp3-75ffe36900aff189090ce0fdc9c68d48.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

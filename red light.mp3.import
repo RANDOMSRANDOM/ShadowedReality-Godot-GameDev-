@@ -2,13 +2,13 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-uid="uid://bwql8jm8jtk8u"
-path="res://.godot/imported/red light.mp3-42db384c2fdf3091aba83f26225d107c.mp3str"
+uid="uid://ct2oqhrl0m270"
+path="res://.godot/imported/red light.mp3-dc42eb33eac741767324308daa8c4b3a.mp3str"
 
 [deps]
 
-source_file="res://red light.mp3"
-dest_files=["res://.godot/imported/red light.mp3-42db384c2fdf3091aba83f26225d107c.mp3str"]
+source_file="res://OSTS/Shadowed reality/red light.mp3"
+dest_files=["res://.godot/imported/red light.mp3-dc42eb33eac741767324308daa8c4b3a.mp3str"]
 
 [params]
 

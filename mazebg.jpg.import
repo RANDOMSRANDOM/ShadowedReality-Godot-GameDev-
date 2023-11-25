@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://880nx7lrdajy"
-path="res://.godot/imported/mazebg.jpg-1c1bef8d44458e8feb671128003f316e.ctex"
+uid="uid://dxeee8sfxsrxa"
+path="res://.godot/imported/mazebg.jpg-b3469e74f8cef040388c59948c61e88c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mazebg.jpg"
-dest_files=["res://.godot/imported/mazebg.jpg-1c1bef8d44458e8feb671128003f316e.ctex"]
+source_file="res://2nd Part [Content}/mazebg.jpg"
+dest_files=["res://.godot/imported/mazebg.jpg-b3469e74f8cef040388c59948c61e88c.ctex"]
 
 [params]
 

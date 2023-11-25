@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://3brffcjvfiay"
+path="res://.godot/imported/memory.mp3-0f7345cb83a455ef8fd5f91ed6e7a8ca.mp3str"
+
+[deps]
+
+source_file="res://OSTS/Shadowed reality/memory.mp3"
+dest_files=["res://.godot/imported/memory.mp3-0f7345cb83a455ef8fd5f91ed6e7a8ca.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
